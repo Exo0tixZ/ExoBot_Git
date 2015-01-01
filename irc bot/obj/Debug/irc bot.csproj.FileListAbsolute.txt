@@ -1,0 +1,32 @@
+D:\Workspace\Visual Studio\C#\irc bot\irc bot\obj\Debug\irc_bot.Form1.resources
+D:\Workspace\Visual Studio\C#\irc bot\irc bot\obj\Debug\irc_bot.Properties.Resources.resources
+D:\Workspace\Visual Studio\C#\irc bot\irc bot\obj\Debug\irc bot.csproj.GenerateResource.Cache
+D:\Workspace\Visual Studio\C#\irc bot\irc bot\obj\Debug\irc bot.csprojResolveAssemblyReference.cache
+D:\Workspace\Visual Studio\C#\irc bot\irc bot\bin\Debug\Exo0bot.exe.config
+D:\Workspace\Visual Studio\C#\irc bot\irc bot\bin\Debug\Exo0bot.exe
+D:\Workspace\Visual Studio\C#\irc bot\irc bot\bin\Debug\Exo0bot.pdb
+D:\Workspace\Visual Studio\C#\irc bot\irc bot\obj\Debug\Exo0bot.exe
+D:\Workspace\Visual Studio\C#\irc bot\irc bot\obj\Debug\Exo0bot.pdb
+D:\Workspace\Visual Studio\C#\EXO0TIXZ OSU STREAM BOT\irc bot\bin\Debug\Exo0bot.exe.config
+D:\Workspace\Visual Studio\C#\EXO0TIXZ OSU STREAM BOT\irc bot\obj\Debug\Exo0bot.exe
+D:\Workspace\Visual Studio\C#\EXO0TIXZ OSU STREAM BOT\irc bot\obj\Debug\Exo0bot.pdb
+D:\Workspace\Visual Studio\C#\EXO0TIXZ OSU STREAM BOT\irc bot\bin\Debug\Exo0bot.exe
+D:\Workspace\Visual Studio\C#\EXO0TIXZ OSU STREAM BOT\irc bot\bin\Debug\Exo0bot.pdb
+D:\Workspace\Visual Studio\C#\EXO0TIXZ OSU STREAM BOT\irc bot\obj\Debug\irc bot.csprojResolveAssemblyReference.cache
+D:\Workspace\Visual Studio\C#\EXO0TIXZ OSU STREAM BOT\irc bot\obj\Debug\irc_bot.Form1.resources
+D:\Workspace\Visual Studio\C#\EXO0TIXZ OSU STREAM BOT\irc bot\obj\Debug\irc_bot.Properties.Resources.resources
+D:\Workspace\Visual Studio\C#\EXO0TIXZ OSU STREAM BOT\irc bot\obj\Debug\irc bot.csproj.GenerateResource.Cache
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot\irc bot\bin\Debug\Exo0bot.exe.config
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot\irc bot\obj\Debug\Exo0bot.exe
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot\irc bot\obj\Debug\Exo0bot.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot\irc bot\bin\Debug\Exo0bot.exe
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot\irc bot\bin\Debug\Exo0bot.pdb
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot\irc bot\obj\Debug\irc bot.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot\irc bot\obj\Debug\irc_bot.Form1.resources
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot\irc bot\obj\Debug\irc_bot.Properties.Resources.resources
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot\irc bot\obj\Debug\irc bot.csproj.GenerateResource.Cache
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot\irc bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot\irc bot\bin\Debug\osu!api.dll
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot_Git\irc bot\bin\Debug\Exo0bot.exe.config
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot_Git\irc bot\obj\Debug\Exo0bot.exe
+C:\Users\Manuel\Documents\Visual Studio 2013\Projects\ExoBot_Git\irc bot\obj\Debug\Exo0bot.pdb
